@@ -1,0 +1,17 @@
+{
+  "name": "macmac-db",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "author": "Gleb Barskiy",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "loadash": "^1.0.0"
+  }
+}
